@@ -17,7 +17,7 @@ namespace AjaxChat.Controllers
             try
             {
                 if (chatModel == null) chatModel = new ChatModel();
-
+                int i = 1;
                 //оставляем только последние 10 сообщений
                 if (chatModel.Messages.Count > 100)
                     chatModel.Messages.RemoveRange(0, 90);
