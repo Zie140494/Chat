@@ -1,0 +1,11 @@
+F:\Chat\BlockChain\BlockChain\BlockChain\bin\Debug\netcoreapp2.0\BlockChain.deps.json
+F:\Chat\BlockChain\BlockChain\BlockChain\bin\Debug\netcoreapp2.0\BlockChain.runtimeconfig.json
+F:\Chat\BlockChain\BlockChain\BlockChain\bin\Debug\netcoreapp2.0\BlockChain.runtimeconfig.dev.json
+F:\Chat\BlockChain\BlockChain\BlockChain\bin\Debug\netcoreapp2.0\BlockChain.dll
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.csprojResolveAssemblyReference.cache
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.csproj.CoreCompileInputs.cache
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.AssemblyInfoInputs.cache
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.AssemblyInfo.cs
+F:\Chat\BlockChain\BlockChain\BlockChain\bin\Debug\netcoreapp2.0\BlockChain.pdb
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.dll
+F:\Chat\BlockChain\BlockChain\BlockChain\obj\Debug\netcoreapp2.0\BlockChain.pdb
