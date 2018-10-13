@@ -1,0 +1,10 @@
+F:\Chat\ImageTest\ImageTestWF\bin\Debug\ImageTestWF.exe.config
+F:\Chat\ImageTest\ImageTestWF\bin\Debug\ImageTestWF.exe
+F:\Chat\ImageTest\ImageTestWF\bin\Debug\ImageTestWF.pdb
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.csprojResolveAssemblyReference.cache
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.Form1.resources
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.Properties.Resources.resources
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.csproj.GenerateResource.Cache
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.csproj.CoreCompileInputs.cache
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.exe
+F:\Chat\ImageTest\ImageTestWF\obj\Debug\ImageTestWF.pdb

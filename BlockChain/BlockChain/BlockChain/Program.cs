@@ -10,7 +10,9 @@ namespace BlockChain
         {
             string s = "Vasya";
             Console.WriteLine(s);
-            
+
+            Block b1 = new Block("","Vasya");
+
             Console.ReadLine();
 
             
